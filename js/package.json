@@ -1,0 +1,10 @@
+{
+  "name": "kata",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  },
+ "scripts": {
+   "test": "mocha --watch"
+ }
+}
